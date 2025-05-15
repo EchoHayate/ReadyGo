@@ -1,2 +1,2 @@
 # ReadyGo
-Gather all information and push it to your phone at the first time
+Gather all information and push it to your phone for the first time
